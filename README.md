@@ -8,5 +8,5 @@ Administrators with the appropriate permission can also use `/ec <player>` to vi
 
 Select the desired source code version from the **Branches** menu, or download a pre-built release from one of the following platforms:
 
-* **Modrinth:** *link*
-* **CurseForge:** *link*
+* **Modrinth:** *https://modrinth.com/plugin/trc-enderchest*
+* **CurseForge:** *https://www.curseforge.com/minecraft/bukkit-plugins/trc-enderchest*
