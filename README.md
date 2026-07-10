@@ -1,4 +1,4 @@
-# TRC-EnderChest
+# TRC:P Enderchest
 
 A simple and lightweight PaperMC plugin that adds the `/ec` and `/enderchest` commands, allowing players to quickly access their Ender Chest.
 
