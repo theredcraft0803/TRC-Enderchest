@@ -1,0 +1,27 @@
+name: TRCEnderchest
+description: $description
+version: '${version}'
+
+main: de.trc.trcenderchest.TRCEnderchest
+api-version: '26.1.2'
+load: POSTWORLD
+
+authors: [ TRC ]
+website: linktr.ee/theredcraft0803
+
+commands:
+  ec:
+    usage: /ec <player>
+    description: Open your own enderchest or as an Admin others
+  enderchest:
+    usage: /enderchest <player>
+    description: Open your own enderchest or as an Admin others
+
+permissions:
+  trc_enderchest:see_other:
+    description: Allows to open others enderchests
+    default: false
+
+  trc_enderchest:see_own:
+    description: Allows to open own enderchests
+    default: false
